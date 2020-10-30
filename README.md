@@ -1,22 +1,11 @@
-
-
-<!--
-**fatimahossny/fatimahossny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-Software engineer (Flutter/Dart) , love frontend & passionate about UI/UX .
+<h3 align="center">Fatima Hossny - Software engineer (Flutter/Dart)</h3>
 <br/>
-<br/>
- <a href='https://twitter.com/FatimaHossny'><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /><a>
- <a href='https://eg.linkedin.com/in/fatima-hossny'><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /><a>
- <br/>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fatimahossny" alt="fatimahossny" /></a> </p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/fatimahossny" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="fatimahossny" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/fatima-hossny" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="fatima-hossny" height="30" width="40" /></a>
+</p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fatimahossny&show_icons=true&locale=en" alt="fatimahossny" /></p>
