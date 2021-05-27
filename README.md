@@ -3,5 +3,5 @@
 
 - 🔭 I’m currently working on **LEAM Technology Systems as a Flutter Developer**
 
-- 🌱 I’m currently learning **Computer Graphics**
+- 🌱 I’m currently learning **Python**
 
