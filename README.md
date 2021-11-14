@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **LEAM Technology Systems as a Flutter Developer**
 
-- 🌱 I’m currently learning **Design patterns & UI/UX**
+- 🌱 I’m currently learning **UI/UX**
 
 - 📫 How to reach me **Fatimah.Hossny@gmail.com**
 
