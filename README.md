@@ -1,9 +1,14 @@
-<h1 align="center">Hi 👋, I'm Fatima Hossny</h1>
-<h3 align="center">A Software engineer passionate about Flutter & Dart</h3>
+<h1 align="center">Hi there 👋, :upside_down:</h1>
+<h3 align="center">I'm a software engineer at LEAM Technology Systems</h3>
 
 - 🔭 I’m currently working on **LEAM Technology Systems as a Flutter Developer**
 
-- 🌱 I’m currently learning **UI/UX**
+- 🌱 I’m currently learning **Spanish**
 
-- 📫 How to reach me **Fatimah.Hossny@gmail.com**
+- 👯 I’m looking to collaborate on **open source flutter projects**
 
+- 💬 Ask me about **Ask me about [Flutter](https://flutter.dev) and [Dart](https://dart.dev).**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
