@@ -3,7 +3,7 @@
 
 - 💻 I’m currently working at **LEAM Technology Systems as a Flutter Developer**
 
-- ✨ I’m currently learning **French 🇫🇷 & Spanish 🇪🇸**
+- ✨ I’m currently learning **Spanish 🇪🇸**
 
 - 🤝 I’m looking to collaborate on **open source flutter projects**
 
